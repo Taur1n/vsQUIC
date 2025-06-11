@@ -1,7 +1,7 @@
 # vsQUIC
 клонируем репозиторий
 
-git clone https://github.com/UserAccountNotFound/vsQUIC_v2.git /opt/vsQUIC
+git clone https://github.com/Taur1n/vsQUIC.git /opt/vsQUIC
 обновляем пакетную базу дистрибутива и сразу обновсляем операционную систему
 
 apt update && apt upgrade -y
